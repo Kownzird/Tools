@@ -3,8 +3,8 @@
 将make之后生成的mkyaffs2image文件拷贝到/usr/bin目录下
 
 $ su
-# cp mkyaffs2image /usr/bin/
-# chmod 777 /usr/bin/mkyaffs2image
+$ cp mkyaffs2image /usr/bin/
+$ chmod 777 /usr/bin/mkyaffs2image
 
 之后
 
